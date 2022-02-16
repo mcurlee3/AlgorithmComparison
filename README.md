@@ -9,4 +9,5 @@ The code for this program can either be run via Google Collab at the link below,
 
 ##Links
 GitHub: https://github.com/mcurlee3/AlgorithmComparison.git
+
 Collab: https://colab.research.google.com/drive/1gLhgqwIxJO_fTk8XkPFq4dmjUsbOimmL?usp=sharing
