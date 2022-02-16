@@ -8,6 +8,7 @@ All of the data discussed in the report are reflective of this iterative impleme
 The code for this program can either be run via Google Collab at the link below, or downloaded from this repository in the Code folder on GitHub. Test.py acts as the main module, however all algorithms for the module are found on in SortingAlgorithm.py. Both will be needed for successful implementation. The notebook is also available in the Python Notebook folder on GitHub. A written report can befound in the Report folder on GitHub. 
 
 ##Links
+
 GitHub: https://github.com/mcurlee3/AlgorithmComparison.git
 
 Collab: https://colab.research.google.com/drive/1gLhgqwIxJO_fTk8XkPFq4dmjUsbOimmL?usp=sharing
